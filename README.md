@@ -2,6 +2,8 @@
 
 **Live prototype:** https://sanlares.github.io/council-amenities/
 
+**Product requirements:** [docs/PRD.md](docs/PRD.md)
+
 A prototype that connects residents with the facts behind the public places their council runs: pools, libraries, parks, community centres, sports grounds and public toilets.
 
 Most Australian council budget dashboards start from the spreadsheet. This one starts from the map. Residents find a place they already know, tap it, and see in plain English:
